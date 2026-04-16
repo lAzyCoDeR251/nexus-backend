@@ -27,7 +27,7 @@ DEBUG = True
 
 SECRET_KEY = "your-secret-key"
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 # import redis
 
